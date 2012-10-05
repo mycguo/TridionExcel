@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="84200fda-0cf8-44e7-9884-c11f1399c0a0" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://cms.devjp.oic.fujitsu.com/webservices/CoreService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="CoreService.xsd" MetadataType="Schema" ID="93cf7442-7612-4fdf-8366-dd09eb99750e" SourceId="1" SourceUrl="http://cms.devjp.oic.fujitsu.com/webservices/CoreService.svc?xsd=xsd5" />
+    <MetadataFile FileName="CoreService1.xsd" MetadataType="Schema" ID="23ce4997-f8ee-4272-bedb-13a40b3b7599" SourceId="1" SourceUrl="http://cms.devjp.oic.fujitsu.com/webservices/CoreService.svc?xsd=xsd4" />
+    <MetadataFile FileName="CoreService2.xsd" MetadataType="Schema" ID="6d0804ba-3c5a-4466-be2a-79f60ae23128" SourceId="1" SourceUrl="http://cms.devjp.oic.fujitsu.com/webservices/CoreService.svc?xsd=xsd3" />
+    <MetadataFile FileName="CoreService3.xsd" MetadataType="Schema" ID="b855353d-031b-4f07-a842-f0f5f430850b" SourceId="1" SourceUrl="http://cms.devjp.oic.fujitsu.com/webservices/CoreService.svc?xsd=xsd2" />
+    <MetadataFile FileName="CoreService4.xsd" MetadataType="Schema" ID="db47b094-201e-477c-84d0-559698655660" SourceId="1" SourceUrl="http://cms.devjp.oic.fujitsu.com/webservices/CoreService.svc?xsd=xsd1" />
+    <MetadataFile FileName="CoreService5.xsd" MetadataType="Schema" ID="b7de76a3-e147-42d0-8acb-c89a0ce80467" SourceId="1" SourceUrl="http://cms.devjp.oic.fujitsu.com/webservices/CoreService.svc?xsd=xsd0" />
+    <MetadataFile FileName="CoreService.wsdl" MetadataType="Wsdl" ID="252fdce3-ff0c-463e-86ef-b924e2906813" SourceId="1" SourceUrl="http://cms.devjp.oic.fujitsu.com/webservices/CoreService.svc?wsdl" />
+    <MetadataFile FileName="CoreService1.wsdl" MetadataType="Wsdl" ID="fa723bbf-b32a-4e6a-9d08-b46815330a7f" SourceId="1" SourceUrl="http://cms.devjp.oic.fujitsu.com/webservices/CoreService.svc?wsdl=wsdl0" />
+    <MetadataFile FileName="CoreService.disco" MetadataType="Disco" ID="db100aa6-32b4-4a70-9da2-31b09078edaf" SourceId="1" SourceUrl="http://cms.devjp.oic.fujitsu.com/webservices/CoreService.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
