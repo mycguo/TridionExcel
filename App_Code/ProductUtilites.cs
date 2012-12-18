@@ -38,7 +38,7 @@ public static class ProductUtilites
                     //return the TcmId
                     productTcmId = product.Attribute("ID").Value;
                     //exit the foreach
-                    continue;
+                    break;
                 }
             }
         }
